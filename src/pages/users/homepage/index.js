@@ -1,11 +1,9 @@
-import { memo } from 'react';
+import { memo } from "react";
 const HomePage = () => {
-    return (
-        <>
-            <h1>Hell</h1>
-            <h1>Hell1</h1>
-            <h1>Hell2</h1>
-        </>
-    );
-}
+  return (
+    <>
+      <h1>Hell1lll</h1>
+    </>
+  );
+};
 export default memo(HomePage);
