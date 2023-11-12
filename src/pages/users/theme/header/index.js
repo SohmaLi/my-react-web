@@ -1,9 +1,10 @@
 import { memo } from "react";
+import "./style.scss";
 const Header = () => {
   return (
-    <>
-      <h1>Hello</h1>
-    </>
+    <div className="header">
+      <div>helleo</div>
+    </div>
   );
 };
 export default memo(Header);
